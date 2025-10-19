@@ -35,6 +35,7 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 
 
 - **cover page**
+  
 -![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/cover%20photo.png)
  
 - **Healthcare Metrics**
@@ -47,7 +48,7 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 
 - **Financial Overivew**
   
-![Dashboard View]()
+![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/financial%20overview.png)
 
 ## Conclusion
 This dashboard provides actionable insights into hospital operations and patient care trends, enabling healthcare administrators to optimize resources and enhance patient satisfaction. The focus on senior citizen care, emergency services, and department-wise performance highlights critical areas for improvement. By addressing key factors such as treatment efficiency, patient engagement, and financial sustainability, hospitals can improve healthcare delivery and operational effectiveness.
