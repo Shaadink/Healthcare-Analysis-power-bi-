@@ -32,6 +32,10 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 - **Treatment Effectiveness**: Patients undergoing scheduled procedures tend to have a higher successful discharge rate compared to emergency admissions.
 
 ## Image Preview
+
+
+- **cover page**
+ 
 - **Healthcare Metrics**
   
 ![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(735).png)
