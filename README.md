@@ -39,7 +39,7 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
  
 - **Healthcare Metrics**
   
-![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(735).png)
+![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/hospital%20overview.png)
 
 
 - **Financial Overivew**
