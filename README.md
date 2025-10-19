@@ -7,7 +7,7 @@ The **Hospital Healthcare Analysis dashboard** provides a comprehensive view of 
 - **Power BI** for dashboard creation.
 
 ## Dataset Used
-<a href="https://github.com/muhdshahan/hospital-healthcare-dashboard/tree/main/Datasets">Hospital patient records and healthcare service data</a>
+<a href="https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/Healthcare%20Provide%20Dataset%20(1)%20(1)%20(1).zip">Hospital patient records and healthcare service data</a>
 
 ## Key Metrics
 - **Total Patients**: Displays the overall number of patients admitted and treated.
