@@ -35,6 +35,7 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 
 
 - **cover page**
+-![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/cover%20photo.png)
  
 - **Healthcare Metrics**
   
