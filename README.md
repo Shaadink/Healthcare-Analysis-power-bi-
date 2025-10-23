@@ -1,4 +1,4 @@
-# Hospital Healthcare Dashboard
+# Hospital Healthcare Analysis Dashboard
 
 -![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/pngtree-cartoon-hospital-scene-with-ambulance-and-people-on-lawn-image_17889975.webp)
 ## Overview
