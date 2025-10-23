@@ -1,6 +1,6 @@
 # Hospital Healthcare Dashboard
 
--![Dashboard View]()
+-![Dashboard View](https://github.com/Shaadink/Healthcare-Analysis-power-bi-/blob/main/pngtree-cartoon-hospital-scene-with-ambulance-and-people-on-lawn-image_17889975.webp)
 ## Overview
 The **Hospital Healthcare Analysis dashboard** provides a comprehensive view of hospital performance, patient demographics, and key healthcare metrics. It is designed to facilitate understanding of patient distribution, treatment effectiveness, resource utilization, and financial insights. The dashboard is structured to highlight critical insights, patterns, and opportunities for improving hospital operations and patient care.
 
